@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (KurcachOsama.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\Azro_Sk\source\repos\KurcachOsama\KurcachOsama\Accounts.cpp(179,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Azro_Sk\source\repos\KurcachOsama\KurcachOsama\Accounts.cpp(164,7): warning C4101: 'user': unreferenced local variable
+C:\Users\Azro_Sk\source\repos\KurcachOsama\KurcachOsama\Accounts.cpp(214,7): warning C4101: 'user': unreferenced local variable
+C:\Users\Azro_Sk\source\repos\KurcachOsama\KurcachOsama\Accounts.cpp(263,7): warning C4101: 'user': unreferenced local variable
+C:\Users\Azro_Sk\source\repos\KurcachOsama\KurcachOsama\Accounts.cpp(312,7): warning C4101: 'user': unreferenced local variable
+  Workers.cpp
+  Generating Code...
+  KurcachOsama.vcxproj -> C:\Users\Azro_Sk\source\repos\KurcachOsama\x64\Debug\KurcachTrpo.exe
